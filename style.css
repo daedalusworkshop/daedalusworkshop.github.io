@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    padding: 20px 70px;
+  }
+  
+  a,
+  li {
+    color: #3f50e4;
+    text-decoration: none;
+  }
+  
+  p {
+    color: #423b04;
+  }
+  h1 {
+    color: #f9db0b;
+    font-size: 3.5rem;
+    margin-top: auto;
+  }
+  
+  .back {
+    color: #f9db0b;
+    text-decoration: underline;
+  }
+  
+  button {
+    color: #f9db0b;
+    background-color: black;
+    padding: 8px;
+  }
+  
+  img {
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
